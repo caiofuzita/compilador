@@ -1,0 +1,16 @@
+DEFINICOES :
+varINTidade := 0
+var FLTpeso := 0
+varFLTaltura := 0
+FIM ;
+
+INICIO:
+LEIA ( varINTidade )
+LEIA ( varFLTpeso 
+Leia ( varFLTaltura )
+varINTresultado := varFLTpeso /  ( varFLTaltura ^ 2 (  
+IF ( varINTresultado  >> 20 ** varINTresultado << 25 ) :
+PRINT ( "PESO OK") ;
+ELSE :
+PRINT ( " PESO NÃO OK " ) ;
+FIM ;
