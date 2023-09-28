@@ -1,0 +1,4 @@
+line 3 ['var FLTpeso := 0 -> 500']
+line 9 ['LEIA ( varFLTpeso  -> 507']
+line 10 ['Leia ( varFLTaltura ) -> 505']
+line 11 ['varINTresultado := varFLTpeso /  ( varFLTaltura ^ 2 (   -> 501', 'varINTresultado := varFLTpeso /  ( varFLTaltura ^ 2 (   -> 507']
